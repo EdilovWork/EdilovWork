@@ -16,7 +16,7 @@
 <p><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Визуализация%20требований%20и%20техники%20тест%20дизайна/Test_DS.xlsx">Визуализация требований и техники тест дизайна </a></p>
 <ul>
 <li><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Визуализация%20требований%20и%20техники%20тест%20дизайна/Диаграмма/Диаграмма.drawio.pdf">Диаграмма</a></li>
-\<li><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Визуализация%20требований%20и%20техники%20тест%20дизайна/Блок%20схема.pdf">Блок схема</a></li>
+<li><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Визуализация%20требований%20и%20техники%20тест%20дизайна/Блок%20схема.pdf">Блок схема</a></li>
 </ul>
 
 ![](https://github.com/EdilovWork/edilovwork/blob/main/assets/photo_2022-11-21_1fe1-27-15.jpg)
