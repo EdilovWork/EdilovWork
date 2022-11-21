@@ -4,6 +4,23 @@
 
 ![](https://github.com/EdilovWork/edilovwork/blob/main/assets/photo_2022-11-21_1fe1-27-15.jpg)
 
+<h3 align="left">Portfolio:</h3>
+<p><a href="#">Тестирование веб приложения, мобилки, работа с БД и API</a></p>
+<ul>
+<li><a href="#">Требования к веб-приложению</a></li>
+<li><a href="#">Требования к бэкенду
+приложения</a></li>
+<li><a href="#">mindmap</a></li>
+<li><a href="#">Приложение apk</a></li>
+</ul>
+<p><a href="#">Тестирование веб приложения</a></p>
+<p><a href="#">Тестирование мобильных приложений и API</a></p>
+<p><a href="#">Визуализация требований и техники тест дизайна </a></p>
+<ul>
+<li><a href="#">Диаграмма</a></li>
+<li><a href="#">Блок схема</a></li>
+</ul>
+
 
 <p align="left">
 </p>
