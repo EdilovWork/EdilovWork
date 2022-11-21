@@ -10,7 +10,7 @@
 <li><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Тестирование%20веб%20приложения%2C%20мобилки%2C%20работа%20с%20БД%20и%20API/wed.pdf">Требования к веб-приложению</a></li>
 <li><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Тестирование%20веб%20приложения%2C%20мобилки%2C%20работа%20с%20БД%20и%20API/requirements_backend.pdf">Требования к бэкенду
 приложения</a></li>
-<li><a href="#">mindmap</a></li>
+<li><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Тестирование%20веб%20приложения%2C%20мобилки%2C%20работа%20с%20БД%20и%20API/Ya..drawio.png">mindmap</a></li>
 <li><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Тестирование%20веб%20приложения%2C%20мобилки%2C%20работа%20с%20БД%20и%20API/scooter-v2.0.apk">Приложение apk</a></li>
 </ul>
 <p><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Тестирование%20веб%20приложения/Web_test.xlsx">Тестирование веб приложения</a></p>
