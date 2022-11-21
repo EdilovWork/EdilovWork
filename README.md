@@ -6,8 +6,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3.svg" alt="css3" width="40" height="40"/>
+<p align="left"><img src="https://github.com/EdilovWork/edilovwork/blob/main/assets/icon/html.svg" alt="html5" width="40" height="40"/>
+<img src="https://github.com/EdilovWork/edilovwork/blob/main/assets/icon/css3.svg" alt="css3" width="40" height="40"/>
 
 <img src="https://github.com/EdilovWork/edilovwork/blob/main/assets/icon/javascript.svg" alt="js" width="40" height="40"/>
 
