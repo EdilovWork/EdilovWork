@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Edilov Khizri</h1>
 <h3 align="center">Я начинающий тестировщик с опытом работы в реальных проектах.</h3>
 
-![](https://github.com/EdilovWork/edilovwork/blob/main/assets/photo_2022-11-21_1fe1-27-15.jpg)
-
 <h3 align="left">Portfolio:</h3>
 <p><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Тестирование%20веб%20приложения%2C%20мобилки%2C%20работа%20с%20БД%20и%20API/main_project.xlsx">Тестирование веб приложения, мобилки, работа с БД и API</a></p>
 <ul>
@@ -21,6 +19,7 @@
 <li><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Визуализация%20требований%20и%20техники%20тест%20дизайна/Блок%20схема.pdf">Блок схема</a></li>
 </ul>
 
+![](https://github.com/EdilovWork/edilovwork/blob/main/assets/photo_2022-11-21_1fe1-27-15.jpg)
 
 <p align="left">
 </p>
