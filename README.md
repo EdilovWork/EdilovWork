@@ -15,10 +15,10 @@
 </ul>
 <p><a href="#">Тестирование веб приложения</a></p>
 <p><a href="#">Тестирование мобильных приложений и API</a></p>
-<p><a href="#">Визуализация требований и техники тест дизайна </a></p>
+<p><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Визуализация%20требований%20и%20техники%20тест%20дизайна/Test_DS.xlsx">Визуализация требований и техники тест дизайна </a></p>
 <ul>
-<li><a href="#">Диаграмма</a></li>
-<li><a href="#">Блок схема</a></li>
+<li><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Визуализация%20требований%20и%20техники%20тест%20дизайна/Диаграмма/Диаграмма.drawio.pdf">Диаграмма</a></li>
+<li><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Визуализация%20требований%20и%20техники%20тест%20дизайна/Блок%20схема.pdf">Блок схема</a></li>
 </ul>
 
 
