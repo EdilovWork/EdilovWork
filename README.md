@@ -5,16 +5,16 @@
 ![](https://github.com/EdilovWork/edilovwork/blob/main/assets/photo_2022-11-21_1fe1-27-15.jpg)
 
 <h3 align="left">Portfolio:</h3>
-<p><a href="#">Тестирование веб приложения, мобилки, работа с БД и API</a></p>
+<p><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Тестирование%20веб%20приложения%2C%20мобилки%2C%20работа%20с%20БД%20и%20API/main_project.xlsx">Тестирование веб приложения, мобилки, работа с БД и API</a></p>
 <ul>
-<li><a href="#">Требования к веб-приложению</a></li>
-<li><a href="#">Требования к бэкенду
+<li><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Тестирование%20веб%20приложения%2C%20мобилки%2C%20работа%20с%20БД%20и%20API/wed.pdf">Требования к веб-приложению</a></li>
+<li><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Тестирование%20веб%20приложения%2C%20мобилки%2C%20работа%20с%20БД%20и%20API/requirements_backend.pdf">Требования к бэкенду
 приложения</a></li>
 <li><a href="#">mindmap</a></li>
-<li><a href="#">Приложение apk</a></li>
+<li><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Тестирование%20веб%20приложения%2C%20мобилки%2C%20работа%20с%20БД%20и%20API/scooter-v2.0.apk">Приложение apk</a></li>
 </ul>
-<p><a href="#">Тестирование веб приложения</a></p>
-<p><a href="#">Тестирование мобильных приложений и API</a></p>
+<p><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Тестирование%20веб%20приложения/Web_test.xlsx">Тестирование веб приложения</a></p>
+<p><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Тестирование%20мобильных%20приложений%20и%20API/Mobile_API.xlsx">Тестирование мобильных приложений и API</a></p>
 <p><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Визуализация%20требований%20и%20техники%20тест%20дизайна/Test_DS.xlsx">Визуализация требований и техники тест дизайна </a></p>
 <ul>
 <li><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Визуализация%20требований%20и%20техники%20тест%20дизайна/Диаграмма/Диаграмма.drawio.pdf">Диаграмма</a></li>
