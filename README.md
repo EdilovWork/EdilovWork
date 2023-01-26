@@ -3,8 +3,9 @@
 <h3 align="center">Я тестировщик с опытом работы в реальных проектах.</h3>
 
 <h3 align="left">Portfolio:</h3>
-<p><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Тестирование%20веб%20приложения%2C%20мобилки%2C%20работа%20с%20БД%20и%20API/main_project.xlsx">Тестирование веб приложения, мобилки, работа с БД и API</a></p>
+<p>Тестирование веб приложения, мобилки, работа с БД и API</p>
 <ul>
+<li><a href="#">Требования к веб-приложению</a></li>
 <li><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Тестирование%20веб%20приложения%2C%20мобилки%2C%20работа%20с%20БД%20и%20API/wed.pdf">Требования к веб-приложению</a></li>
 <li><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Тестирование%20веб%20приложения%2C%20мобилки%2C%20работа%20с%20БД%20и%20API/requirements_backend.pdf">Требования к бэкенду
 приложения</a></li>
