@@ -13,7 +13,7 @@
 <li><a href="https://github.com/EdilovWork/edilovwork/blob/main/assets/Тестирование%20веб%20приложения%2C%20мобилки%2C%20работа%20с%20БД%20и%20API/scooter-v2.0.apk">Приложение apk</a></li>
 </ul>
 <p>Тестирование веб приложения</p>
-<ul><li><a href="<a href="https://docs.google.com/spreadsheets/d/13gkqXu-LyzkcuaC59PGQIOjU1uYzH2Hp/edit?usp=share_link&ouid=113234681013120623973&rtpof=true&sd=true">Тест кейсы - Чек листы</a></li></ul>
+<ul><li><a href="https://docs.google.com/spreadsheets/d/1sHzpmiCt9mMq5IgQysWo7fWz23lXQOwg/edit?usp=sharing&ouid=113234681013120623973&rtpof=true&sd=true">Тест кейсы - Чек листы</a></li></ul>
 <p>Тестирование мобильного приложения и API</p>
 <ul><li><a href="https://docs.google.com/spreadsheets/d/16xDMntcAzrleBaD9qfEiYCcRvi9t7pcQ/edit?usp=sharing&ouid=113234681013120623973&rtpof=true&sd=true">Чек лист -Чек лист API</a></li></ul>
 <p>Визуализация требований и техники тест дизайна</p>
